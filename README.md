@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kamel Alaghbari
 
-🎯 A Senior Mobile Applications Developer with over 12 years of experience in building high-quality iOS and Android apps.
+🎯 A Senior Mobile Applications Developer with over 8 years of experience in building high-quality iOS and Android apps.
 
 ## 🚀 Tech Stack
 - 🧠 Kotlin | Java | Swift | C#
