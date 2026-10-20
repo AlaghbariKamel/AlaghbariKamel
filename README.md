@@ -13,5 +13,4 @@
 - Mentor junior developers and lead mobile teams
 
 ## 📫 How to reach me
-- LinkedIn: [linkedin.com/in/kamel-alaghbari](https://www.linkedin.com/in/kamel-alaghbari-23506982)
 - GitHub: [github.com/AlaghbariKamel](https://github.com/AlaghbariKamel)
